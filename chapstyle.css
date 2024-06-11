@@ -1,0 +1,21 @@
+body{
+    /*background-image: url("media/bck.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;*/
+    background-color:lightgreen;
+}
+
+h1{
+    text-align: center;
+    background-color:rgb(226, 100, 86);
+    color: white;
+}
+pre{
+    white-space: pre-wrap;
+    font-size: 20px;
+    max-width:100%;
+    /*text-align: center;*/
+    /*word-break: break-all;*/
+}
+
